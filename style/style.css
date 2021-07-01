@@ -1,0 +1,84 @@
+html body {
+    background-color: #181F39;
+}
+
+.CommunColor {
+    color: #CDD4D1;
+}
+
+.GreenColor {
+    color: #0DF5E3;
+}
+
+.icon{
+    width: 40px;
+    height: auto;
+}
+
+.responsive {
+    width: 500px;
+    height: auto;
+}
+
+.DarkColor {
+    color:#181F39;
+}
+
+.btn-login {
+    display: flex;
+    justify-content:center;
+    font-family: monospace;
+    font-size: 20px;
+    color: #181F39;
+    letter-spacing: 1px;
+    background-color: #0DF5E3;
+    border: 2px solid #0DF5E3;
+    border-radius: 40px;
+    transition: all 0.3s ease 0s;
+    
+}
+
+.subIcon {
+    width: 50px;
+    height: auto;
+    background-color: #0DF5E3;
+    border-radius: 10px;
+}
+
+.container-fluid{
+    justify-content: center;
+    display: grid;
+    margin-top: 5%
+}
+
+.input-div {
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.supImg{
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+button{
+    margin-bottom: 50px;
+}
+
+.mainDiv{
+    margin-top: 1px;
+}
+
+.formSize{
+
+    width: 500px;
+}
+
+a {
+    margin-bottom: 50px;
+}
